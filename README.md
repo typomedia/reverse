@@ -1,4 +1,4 @@
-# `revert` - A GNU `rev` Clone
+# `reverse` - A GNU `rev` Clone
 
 Reverse lines characterwise. Written in [Go](https://go.dev/) 1.19.
 
